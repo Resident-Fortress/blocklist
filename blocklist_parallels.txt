@@ -1,0 +1,14 @@
+0.0.0.0 download.parallels.com
+0.0.0.0 update.parallels.com
+0.0.0.0 desktop.parallels.com
+0.0.0.0 download.parallels.com.cdn.cloudflare.net
+0.0.0.0 update.parallels.com.cdn.cloudflare.net
+0.0.0.0 desktop.parallels.com.cdn.cloudflare.net
+0.0.0.0 www.parallels.cn
+0.0.0.0 www.parallels.com
+0.0.0.0 reportus.parallels.com
+0.0.0.0 parallels.com
+0.0.0.0 parallels.cn
+0.0.0.0 pax-manager.myparallels.com
+0.0.0.0 myparallels.com
+0.0.0.0 my.parallels.com
